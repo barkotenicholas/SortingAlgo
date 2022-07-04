@@ -41,4 +41,4 @@ build/
 # IntelliJ #
 ############
 .idea
-.idea/
+.idea/*
